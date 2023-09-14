@@ -1,4 +1,4 @@
-[[!MasterHead]("https://www.canva.com/design/DAFucZTpmyo/YQHRGykyWPmG5p-8akD0_Q/view?utm_content=DAFucZTpmyo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink")]
+
 <h1 align="center">Hi 👋, I'm Luis David Rambao</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E03AQGHTLpJgCcz6Q/profile-displayphoto-shrink_800_800/0/1694441558902?e=1700092800&v=beta&t=X-o6IH6B73ydeVooaAhtm-1p0fSvRFg1YUxDTGSereU">
