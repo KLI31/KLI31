@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Luis David Rambao</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E03AQGHTLpJgCcz6Q/profile-displayphoto-shrink_800_800/0/1694441558902?e=1700092800&v=beta&t=X-o6IH6B73ydeVooaAhtm-1p0fSvRFg1YUxDTGSereU">
+<img align="right" alt="Coding" width="400" src="[https://media.licdn.com/dms/image/D4E03AQGHTLpJgCcz6Q/profile-displayphoto-shrink_800_800/0/1694441558902?e=1700092800&v=beta&t=X-o6IH6B73ydeVooaAhtm-1p0fSvRFg1YUxDTGSereU](https://imgs.search.brave.com/JOdRDA2MfpN3UN0lYBLC-yaVsgltfBirSMddr2p9XYE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXN0/LmdpdGh1Yi5jb20v/bGlhbnBlcnNvbi81/ZjBmNTI2MDRiMDNh/ZDgwYzgyZGI3OTBj/NDc0OTkzYy9yYXcv/ODhmMjBjOWQ3NDlk/NzU2YmU2M2YyMmIw/OWYzYzRhYzU3MGJj/NTEwMS9wcm9ncmFt/bWluZy5naWY.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kli31&label=Profile%20views&color=0e75b6&style=flat" alt="kli31" /> </p>
 
