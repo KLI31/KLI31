@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [(Coming...)]((Coming...))
 
-- 💬 Ask me about **React native,JavaScript,React**
+- 💬 Ask me about **React native,JavaScript,React, Next js**
 
 - 📫 How to reach me **lrambao432@gmail.com**
 
