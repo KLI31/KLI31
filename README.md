@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThoMzFhYzFoczdicGw0ZGV6anhqZWJnN2oyamVtdHJ3bmdkcWhndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="600" alt="developer GIF"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThoMzFhYzFoczdicGw0ZGV6anhqZWJnN2oyamVtdHJ3bmdkcWhndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="300" alt="developer GIF"/>
   
   <h1 align="center">Hola, soy Luis David Rambao 👋</h1>
   <h3 align="center">Desarrollador Frontend | Creando Interfaces Web Modernas y Funcionales</h3>
