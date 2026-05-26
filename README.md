@@ -41,15 +41,6 @@ Actualmente desarrollando **TaskSync**, un motor de flujo de trabajo inteligente
 
 ---
 
-### Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=KLI31&show_icons=true&locale=es&theme=graywhite&hide_border=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=KLI31&show_icons=true&locale=es&layout=compact&theme=graywhite&hide_border=true)
-
-</div>
 
 ---
 
