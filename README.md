@@ -16,7 +16,7 @@ Colombia 🇨🇴
 
 Construyo software robusto y escalable aplicando **Clean Architecture** y principios **SOLID**. Creo en el código que no solo funciona, sino que es mantenible. En el frontend, defiendo un diseño ultraminimalista — menos ruido, más intención.
 
-Actualmente desarrollando **TaskSync**, un motor de flujo de trabajo inteligente diseñado para desarrolladores.
+Actualmente desarrollando **SKYAI**, Un agente de entrevistas en video llamadas tecnicas
 
 ---
 
