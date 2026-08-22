@@ -4,7 +4,7 @@
 
 # Luis David Rambao
 
-**Ingeniero de Sistemas · Full-Stack Developer**
+**System Engineer · IA and Full-Stack Developer**
 
 Colombia 🇨🇴
 
